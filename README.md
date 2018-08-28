@@ -5,3 +5,4 @@ This is a collection of paid Open source internships  that I have come across. M
 Carefully read the associated links to get more details on how to apply. Good Luck. If I have left out any please open a pull request and I will add the internship.
 
 ## Outreachy
+## Linux Foundation Internships
